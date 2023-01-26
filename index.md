@@ -7,6 +7,8 @@ layout: default
 Nice to meet you! I'm Denis, a 24 years old programmer. Even though i'm interested in almost everything, work-wise my interests include Porting, Rendering, Emulation, Optimization. 
 My language of preference is C++, althought i've worked with C, C#, ASM, Python, HTML, CSS, PHP, MySQL. Also, with gpahical APIs such as OpenGL and DX12. 
 
+* * *
+
 # Work experience
 
 <img src="./blitworks_00-1.jpg" alt="Blitworks" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;">
@@ -16,8 +18,8 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
 Projects that I've worked on:
 
-
-
+</p>
+<p style="float:left">
 
 </p>
 
@@ -41,12 +43,38 @@ Projects that I've worked on:
   - Graphics core (DX12 and PS5 counterpart)
   - Social services (achievements, activities, rich presence)
 
+* * *
+
 # Commercial projects
 
-| ![PolyDivider](./tenor.gif = 100x100) | It's a cat |
+<img src="./polydivider.gif" alt="Blitworks" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;">
+<p style="float:right">
+<h3>PolyDivider</h3>
+
+Worked as C++ developer on PolyDivider plugin for Mike Udin.
+https://mikeudin.net/product/polydivider/
+
+Responsible for keeping this project up to date. Code is on my github
+private repository.
+
+</p>
+<p style="float:left">
+
+</p>
+
+* * *
 
 # Home projects
 
+* * *
+
+# Contact
+
+If you are looking for a way to contact me, here are my social links!
+
+[Link to another page](./another-page.html).
+[Link to another page](./another-page.html).
+[Link to another page](./another-page.html).
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
