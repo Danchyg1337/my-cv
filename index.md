@@ -9,15 +9,13 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 # Work experience
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![BlitWorks](./blitworks_00-1.jpg = 480x270)
-</div>
-<div style="float:right;margin:0 10px 10px 0" markdown="1">
-    ### BlitWorks Games (July 2021 - Now)
+<img src="./blitworks_00-1.jpg" alt="Smiley face" width="480" height="270" style="horizontal-align:left">
+<p style="horizontal-align:right">
+### BlitWorks Games (July 2021 - Now)
 
-    I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
-    Projects that I've worked on:
-</div>
+I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
+Projects that I've worked on:
+</p>
 
 
 - **Slipstream** (PS4/PS5/XBoxOne/XBoxSeries/Switch) and **Fight'N Rage** (PS5/XBoxSeries)
