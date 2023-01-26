@@ -17,10 +17,6 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
 Projects that I've worked on:
-
-</p>
-<p style="float:left">
-
 </p>
 
 
@@ -47,21 +43,16 @@ Projects that I've worked on:
 
 # Commercial projects
 
-<img src="./polydivider.gif" alt="Blitworks" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;">
+<a href="https://mikeudin.net/product/polydivider/"><img src="./polydivider.gif" alt="Blitworks" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;"></a>
 <p style="float:right">
 <h3>PolyDivider</h3>
 
 Worked as C++ developer on PolyDivider plugin for Mike Udin.
-https://mikeudin.net/product/polydivider/
 
 Responsible for keeping this project up to date. Code is on my github
 private repository.
-
 </p>
-<p style="float:left">
-
-</p>
-
+[Store link](https://mikeudin.net/product/polydivider/).
 * * *
 
 # Home projects
