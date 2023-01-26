@@ -46,7 +46,7 @@ Projects that I've worked on:
 
 # Commercial projects
 
-<a href="https://mikeudin.net/product/polydivider/"><img src="./polydivider.gif" alt="Blitworks" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;"></a>
+<a href="https://mikeudin.net/product/polydivider/"><img src="./polydivider.gif" alt="Divider" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;"></a>
 <p style="float:right">
 <h3>PolyDivider</h3>
 
@@ -61,12 +61,10 @@ private repository.
 
 # Home projects
 
-* * *
-
-# Contact
-
-If you are looking for a way to contact me, here are my social links!
-
-<a href="https://www.linkedin.com/in/denis-bushniak-87499517b/" class="btn">LinkedIn</a>
-<a href="https://github.com/Danchyg1337" class="btn">GitHub</a>
-<a href="mailto:pchlafrvr@gmail.com" class="btn">Mail Me</a>
+<img src="./nes.png" alt="Nes" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;">
+<p style="float:right">
+<h3>NES Emulator</h3>
+As a home project, and in learning purposes I've developed a NES emulator that is capable of running SMB, Donkey Kong, Spelunker and much more. 
+It was written in C++ with some pieces of OpenGL and ImGui. 
+</p>
+[Github](https://github.com/Danchyg1337/NES6502)
