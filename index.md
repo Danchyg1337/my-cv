@@ -9,12 +9,16 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 # Work experience
 
-<img src="./blitworks_00-1.jpg" alt="Smiley face" width="480" height="270" style="float:left">
+<img src="./blitworks_00-1.jpg" alt="Blitworks" width="360" height="206" style="float:left; margin: 0px 20px 00px 00px;">
 <p style="float:right">
-<h3> BlitWorks Games (July 2021 - Now) </h3>
+<h3>BlitWorks Games (July 2021 - Now) </h3>
 
 I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
 Projects that I've worked on:
+
+
+
+
 </p>
 
 
