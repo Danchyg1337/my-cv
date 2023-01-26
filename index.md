@@ -5,8 +5,8 @@ title: Denis Bushniak
 
 # A little bit about me
 
-Nice to meet you! I'm Denis, a 24 years old programmer. Even though i'm interested in almost everything, work-wise my interests include Porting, Rendering, Emulation, Optimization. 
-My language of preference is C++, althought i've worked with C, C#, ASM, Python, HTML, CSS, PHP, MySQL. Also, with gpahical APIs such as OpenGL and DX12. 
+Nice to meet you! I'm Denis, a 24 years old programmer. Even though I'm interested in almost everything, work-wise my interests include Porting, Rendering, Emulation and Optimization. 
+My language of preference is C++, althought I've worked with C, C#, ASM, Python, HTML, CSS, PHP, MySQL. Also, with gpahical APIs such as OpenGL and DX12. 
 
 * * *
 
