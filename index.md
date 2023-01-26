@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Denis Bushniak
 ---
 
 # A little bit about me
@@ -15,17 +16,16 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 <p style="float:right">
 <h3>BlitWorks Games (July 2021 - Now) </h3>
 
-I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
+I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch).
+Also rewriting already existing parts of the main core framework, more about it is described below.
 Projects that I've worked on:
 </p>
-
-
-
 
 - **Slipstream** (PS4/PS5/XBoxOne/XBoxSeries/Switch) and **Fight'N Rage** (PS5/XBoxSeries)
   - Implementing achievements system (PS4/PS5/XBoxOne/XBoxSeries)
   - Implementing activities system (PS5)
   - Fixing shaders and visual bugs (PIX GDK and PS4/PS5 counterpart)
+  - Working on UI
   - Ovelall bugfixing and optimization
   - Handling packaging process
 - **Unreleased rogue-like game** (PS5/XBS)
@@ -49,8 +49,8 @@ Projects that I've worked on:
 <p style="float:right">
 <h3>PolyDivider</h3>
 
-Worked as C++ developer on PolyDivider plugin for Mike Udin.
-
+Worked as C++ developer on PolyDivider (Cinema4D) plugin for Mike Udin.
+All the work was done using C++ and Maxon SDK. 
 Responsible for keeping this project up to date. Code is on my github
 private repository.
 </p>
