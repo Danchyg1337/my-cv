@@ -11,7 +11,7 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 <img src="./blitworks_00-1.jpg" alt="Smiley face" width="480" height="270" style="float:left">
 <p style="float:right">
-<h3> BlitWorks Games (July 2021 - Now) <h3/>
+<h3> BlitWorks Games (July 2021 - Now) </h3>
 
 I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
 Projects that I've worked on:
