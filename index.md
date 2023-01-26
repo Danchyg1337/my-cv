@@ -9,7 +9,7 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 # Work experience
 
-<div>
+<div markdown="1">
     <div style="float:left;margin:0 10px 10px 0" markdown="1">
         ![BlitWorks](./blitworks_00-1.jpg = 480x270)
     </div>
