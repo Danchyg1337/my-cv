@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# A little bit about me
+
+Nice to meet you! I'm Denis, a 24 years old programmer. Even though i'm interested in almost everything, work-wise my interests include Porting, Rendering, Emulation, Optimization. 
+My language of preference is C++, althought i've worked with C, C#, ASM, Python, HTML, CSS, PHP, MySQL. Also, with gpahical APIs such as OpenGL and DX12. 
+
+# Work experience
+
+![Divider1](./algorithm-8.jpg) 
+Sample text
+
+# Home projects
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
