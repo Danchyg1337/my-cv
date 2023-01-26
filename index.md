@@ -18,6 +18,7 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch).
 Also rewriting already existing parts of the main core framework, more about it is described below.
+
 Projects that I've worked on:
 </p>
 
@@ -66,4 +67,6 @@ private repository.
 
 If you are looking for a way to contact me, here are my social links!
 
-[LinkedIn](https://www.linkedin.com/in/denis-bushniak-87499517b/) [GitHub](https://github.com/Danchyg1337) [Mail Me](mailto:pchlafrvr@gmail.com)
+<a href="https://www.linkedin.com/in/denis-bushniak-87499517b/" class="btn">LinkedIn</a>
+<a href="https://github.com/Danchyg1337" class="btn">GitHub</a>
+<a href="mailto:pchlafrvr@gmail.com" class="btn">Mail Me</a>
