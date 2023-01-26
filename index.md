@@ -9,12 +9,17 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 # Work experience
 
-![BlitWorks](./blitworks_00-1.jpg) 
+<div>
+    <div style="float:left;margin:0 10px 10px 0" markdown="1">
+        ![BlitWorks](./blitworks_00-1.jpg = 480x270)
+    </div>
+    <div style="float:right;margin:0 10px 10px 0" markdown="1">
+        ### BlitWorks Games (July 2021 - Now)
 
-## BlitWorks Games (July 2021 - Now)
-
-I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
-Projects that I've worked on:
+        I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
+        Projects that I've worked on:
+    </div>
+</div>
 
 - **Slipstream** (PS4/PS5/XBoxOne/XBoxSeries/Switch) and **Fight'N Rage** (PS5/XBoxSeries)
   - Implementing achievements system (PS4/PS5/XBoxOne/XBoxSeries)
@@ -37,7 +42,7 @@ Projects that I've worked on:
 
 # Commercial projects
 
-| ![PolyDivider](./tenor.gif = 100x20) | It's a cat |
+| ![PolyDivider](./tenor.gif = 100x100) | It's a cat |
 
 # Home projects
 
