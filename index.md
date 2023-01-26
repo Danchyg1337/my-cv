@@ -9,10 +9,40 @@ My language of preference is C++, althought i've worked with C, C#, ASM, Python,
 
 # Work experience
 
-![Divider1](./algorithm-8.jpg) 
-Sample text
+![BlitWorks](./blitworks_00-1.jpg) 
+
+## BlitWorks Games (July 2021 - Now)
+
+I was responsible for porting small indie games to game consoles (PS4/PS5/XBoxOne/XBoxSeries/Switch)
+Projects that I've worked on:
+
+- **Slipstream** (PS4/PS5/XBoxOne/XBoxSeries/Switch) and **Fight'N Rage** (PS5/XBoxSeries)
+  - Implementing achievements system (PS4/PS5/XBoxOne/XBoxSeries)
+  - Implementing activities system (PS5)
+  - Fixing shaders and visual bugs (PIX GDK and PS4/PS5 counterpart)
+  - Ovelall bugfixing and optimization
+  - Handling packaging process
+- **Unreleased rogue-like game** (PS5/XBS)
+  - Porting multiplayer (PlayFab and PS5 counterpart)
+  - Ovelall bugfixing and optimization
+- **BattleBrothers** (PS4/XboxOne/Switch)
+  - Bugfixing and building patches
+ 
+- Porting the core framework from PS4 to PS5 and from XBoxOne to XBoxSeries
+  - Save system
+  - Controller and user management
+  - Haptic Feedback and Rumble features
+  - Graphics core (DX12 and PS5 counterpart)
+  - Social services (achievements, activities, rich presence)
+
+# Commercial projects
+
+![PolyDivider](./tenor.gif) 
+
+It's a cat
 
 # Home projects
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
