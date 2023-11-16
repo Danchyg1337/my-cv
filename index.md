@@ -69,20 +69,10 @@ It was written in C++ with some pieces of OpenGL and ImGui.
 </p>
 [Github](https://github.com/Danchyg1337/NES6502)
 
-<img src="./pathfinder.png" alt="Pathfinder" width="256" hspace="3" style="float:left; margin: 0px 20px 00px 00px;">
+<img src="./pathfinder.png" alt="Pathfinder" width="256" hspace="3" style="float:left; margin: 0px 20px 00px 00px;"/> <img src="./pathfinder2.png" alt="Pathfinder2" width="256" hspace="3" style="float:left; margin: 0px 20px 00px 00px;"/> <img src="./pathfinder3.png" alt="Pathfinder3" width="256" hspace="3" style="float:left; margin: 0px 20px 00px 00px;"/>
 <p style="float:right">
 <h3>A* Algorithm Visualizer</h3>
 A simple app to play with nodes on a movable canvas and run A* search algorithm through them.
 It was created using Swift + SwiftUI with the main idea of getting used to Swift and overall practicing.
 </p>
-
-
-
-
-
-
-
-
-
-
 [Github](https://github.com/Danchyg1337/PathfinderA)
