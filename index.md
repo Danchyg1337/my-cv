@@ -75,4 +75,14 @@ It was written in C++ with some pieces of OpenGL and ImGui.
 A simple app to play with nodes on a movable canvas and run A* search algorithm through them.
 It was created using Swift + SwiftUI with the main idea of getting used to Swift and overall practicing.
 </p>
+
+
+
+
+
+
+
+
+
+
 [Github](https://github.com/Danchyg1337/PathfinderA)
