@@ -6,7 +6,7 @@ title: Denis Bushniak
 # A little bit about me
 
 Nice to meet you! Even though I'm interested in almost everything, work-wise my interests include Porting, Rendering, Emulation and Optimization. 
-My language of preference is C++, althought I've worked with C, C#, ASM, Python, HTML, CSS, PHP, MySQL, and made a few IOS apps using Swift and Firebase. Also, with gpahical APIs such as OpenGL and DX12. 
+My language of preference is C++, althought I've worked with C, C#, ASM, Python, HTML, CSS, PHP, MySQL, gpahical APIs such as OpenGL and DX12, and made a few IOS apps using Swift and Firebase.
 
 * * *
 
